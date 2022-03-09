@@ -28,7 +28,7 @@ grayscale pixel value
 ## Model loss:
 ![image](https://user-images.githubusercontent.com/73145010/157037075-c2a11476-c04d-47b4-9ebd-4c25b9ac830f.png)
 
-## Model true level visualization:
+## Model true lavel visualization:
 ![image](https://user-images.githubusercontent.com/73145010/157037192-bc5aefee-1411-48a5-95d3-4ca9c132b1a5.png)
 
 
